@@ -1,0 +1,12 @@
+Repositorio
+concepto: Un repositorio es el espacion donde se almacena todo el codigo de un proyecto
+junto con su historial de cambio,
+funciona como una carpeta inteligente que guarda versiones anteriores y permite trabajar de forma colaborativa.
+Commit
+concepto: Es un registro de camnbios que realizas en el repoasitorio, por ejemplo
+como una foto del estado del proyecto en un momento especifico, incluye un mensaje que explica 
+que se modifico y por que.
+Push
+Concepto: El push es la acción de enviar tus commits locales al repositorio remoto, para que
+otro puedan verlos y trabajar con ellos. es el paso que sincroniza tu trabajo con la nube o con el 
+servidor central.

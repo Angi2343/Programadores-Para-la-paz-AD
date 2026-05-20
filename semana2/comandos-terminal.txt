@@ -1,0 +1,4 @@
+Is
+mkdir
+cd
+code
