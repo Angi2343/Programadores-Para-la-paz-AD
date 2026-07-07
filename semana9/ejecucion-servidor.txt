@@ -1,0 +1,3 @@
+Qué ocurre cuando ejecutas node server.js. Carga y procesa el código del archivo server .js .
+Qué mensaje aparece en la terminal. servidor ejecutandose en el puerto 3000
+Qué sucede cuando visitas la ruta /estado. Muestra el estado de conexión del servidor

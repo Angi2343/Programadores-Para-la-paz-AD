@@ -1,0 +1,5 @@
+Sistema operativo: Permiten que todos los programas funciones 
+Node.js: permite ejecutar JavaScript en el servidor, fuera del navegador.
+Aplicación server.js:Define, rutas, respuesta y lógica para recibir reportes
+Puerto: Es el “canal” por donde un servidor escucha y recibe solicitudes
+Logs: Son registros que muestran lo que ocurre dentro de la aplicación
