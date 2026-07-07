@@ -1,0 +1,24 @@
+{
+  "name": "programadores-para-la-paz-ad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angi2343/Programadores-Para-la-paz-AD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Angi2343/Programadores-Para-la-paz-AD/issues"
+  },
+  "homepage": "https://github.com/Angi2343/Programadores-Para-la-paz-AD#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
