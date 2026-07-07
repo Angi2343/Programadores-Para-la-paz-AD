@@ -1,0 +1,3 @@
+http://localhost:3000. Muestra que el servidor se esta ejecutando
+http://localhost:3000/saludo: Mensaje de, Hola comunidad
+http://localhost:3000/mensaje/juan: Mensaje de, Hola Juan

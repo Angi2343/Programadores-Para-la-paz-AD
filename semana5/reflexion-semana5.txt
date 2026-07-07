@@ -1,0 +1,1 @@
+Las APIs son clave para que una comunidad pueda compartir información, reportes o alertas de forma organizada, rápida y confiable. Las fuentes consultadas coinciden en que las APIs permiten conectar sistemas, automatizar el flujo de datos y mantener la información actualizada en tiempo real, lo que mejora la coordinación comunitaria

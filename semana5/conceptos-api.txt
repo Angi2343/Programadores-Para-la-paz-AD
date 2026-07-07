@@ -1,0 +1,2 @@
+Recibe infromación enviada por el usuario
+Sirve para reportar fallas en los servicios públicos.
