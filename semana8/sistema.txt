@@ -1,0 +1,3 @@
+Qué información muestra cada comando. uname -a, Muestra toda la información del sistema operativo
+Por qué es útil conocer información del sistema cuando se administra un servidor. whoami, Muestra
+el nombre del host(nodo)
