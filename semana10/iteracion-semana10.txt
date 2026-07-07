@@ -1,0 +1,6 @@
+. Registrar y estructurar los tipos de reportes o incidencias
+Es la base para que todo lo demás funcione: sin categorías claras, los reportes llegan desordenados y no se pueden priorizar ni analizar.
+2. Crear la API o endpoint para recibir reportes ciudadanos
+Permite que la comunidad empiece a enviar información de manera organizada. Es el corazón del flujo: sin recepción estructurada, no hay participación digital real.
+Porque habilitan el sistema: sin estructura y sin recepción, la plataforma no puede operar.
+Cumple exactamente lo que prometía en su descripción, Está probada, funciona sin errores y es estable.
