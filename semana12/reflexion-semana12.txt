@@ -1,0 +1,7 @@
+Durante el curso aprendí que la tecnología puede convertirse en una herramienta clave para fortalecer la participación ciudadana, siempre que se diseñe pensando en la comunidad y en la transparencia. Entendí que plataformas simples, como Petición en 3 Clics, permiten que las personas expresen sus apoyos, registren solicitudes y hagan seguimiento a procesos sin necesidad de trámites complejos. Esto acerca a la ciudadanía a los espacios de decisión y facilita la exigibilidad democrática.
+
+También aprendí que la tecnología no solo organiza la información, sino que ordena la participación: automatiza tareas, genera documentos formales como PDFs, envía notificaciones automáticas con herramientas como n8n o Telegram, y ayuda a que los procesos comunitarios sean más rápidos, verificables y accesibles.
+
+Otro aprendizaje importante fue la seguridad digital. Comprendí que minimizar los datos personales y proteger la información es fundamental para evitar riesgos, cuidar a las personas y generar confianza en cualquier plataforma comunitaria. La tecnología debe servir, pero también debe proteger.
+
+Finalmente, entendí que desarrollar soluciones con impacto social implica combinar técnica y propósito: usar Git y GitHub para trabajar en equipo, Node.js y Express para crear servicios, automatización para reducir cargas manuales, y sobre todo, pensar en cómo cada herramienta puede responder a una necesidad real de la comunidad.

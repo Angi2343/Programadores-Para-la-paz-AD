@@ -1,0 +1,16 @@
+Entidad: Causa
+- id_causa (entero, clave primaria)
+- nombre (texto)
+- descripcion (texto)
+- fecha_creacion (fecha)
+
+Entidad: Apoyo
+- id_apoyo (entero, clave primaria)
+- id_causa (entero, clave foránea → Causa.id_causa)
+- fecha_registro (fecha)
+- tipo_apoyo (texto)   // Ej: firma, respaldo, voto simbólico
+- comentario (texto opcional)
+
+Relación:
+Una Causa puede tener muchos Apoyos.
+Un Apoyo pertenece a una sola Causa.
